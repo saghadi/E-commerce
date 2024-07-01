@@ -433,8 +433,29 @@ ul.nav-menu li a {
   justify-content: center;
   padding: 60px 30px;
   border-radius: 4px;
+  overflow: hidden;
 }
 
+.slider-image-box:hover .add-btn button{
+  opacity: 1;
+  visibility: visible;
+  bottom: 0;
+}
+
+.add-btn button{
+  background: var(--primary-color);
+  padding: 10px;
+  color: var(--common-color);
+  font-size: 16px;
+  display: block;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: -100%;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.5s;
+}
 
 .slider-img-icon {
   display: flex;

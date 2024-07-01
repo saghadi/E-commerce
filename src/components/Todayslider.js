@@ -62,50 +62,10 @@ const Todayslider = () => {
                                     <img src={Eyeimage} alt="" />
                                 </div>
                             </div>
-                        </div>
-                        <div className='slider-content-box'>
-                            <div className='slider-title'>
-                                <h4>
-                                    HAVIT HV-G92 Gamepad
-                                </h4>
-                            </div>
-                            <div className='slider-price'>
-                                <p>
-                                    $120
-                                    <span>
-                                        $160
-                                    </span>
-                                </p>
-                            </div>
-                            <div className='content-icon-box'>
-                                <div className='star-icon'>
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                </div>
-                                <div className='start-text'>
-                                    <p>(88)</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                    <div className='slider-main-box'>
-                        <div className='slider-image-box'>
-                            <div className='slider-img'>
-                                <img src={Sliderimage} alt="" />
-                            </div>
-                            <div className='slider-img-icon'>
-                                <div className='slider-sale-tag'>
-                                    <span>-40%</span>
-                                </div>
-                                <div className='slider-icon'>
-                                    <img src={Shortlist} alt="" />
-                                    <img src={Eyeimage} alt="" />
-                                </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
                             </div>
                         </div>
                         <div className='slider-content-box'>
@@ -152,50 +112,10 @@ const Todayslider = () => {
                                     <img src={Eyeimage} alt="" />
                                 </div>
                             </div>
-                        </div>
-                        <div className='slider-content-box'>
-                            <div className='slider-title'>
-                                <h4>
-                                    HAVIT HV-G92 Gamepad
-                                </h4>
-                            </div>
-                            <div className='slider-price'>
-                                <p>
-                                    $120
-                                    <span>
-                                        $160
-                                    </span>
-                                </p>
-                            </div>
-                            <div className='content-icon-box'>
-                                <div className='star-icon'>
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                </div>
-                                <div className='start-text'>
-                                    <p>(88)</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                    <div className='slider-main-box'>
-                        <div className='slider-image-box'>
-                            <div className='slider-img'>
-                                <img src={Sliderimage} alt="" />
-                            </div>
-                            <div className='slider-img-icon'>
-                                <div className='slider-sale-tag'>
-                                    <span>-40%</span>
-                                </div>
-                                <div className='slider-icon'>
-                                    <img src={Shortlist} alt="" />
-                                    <img src={Eyeimage} alt="" />
-                                </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
                             </div>
                         </div>
                         <div className='slider-content-box'>
@@ -242,50 +162,10 @@ const Todayslider = () => {
                                     <img src={Eyeimage} alt="" />
                                 </div>
                             </div>
-                        </div>
-                        <div className='slider-content-box'>
-                            <div className='slider-title'>
-                                <h4>
-                                    HAVIT HV-G92 Gamepad
-                                </h4>
-                            </div>
-                            <div className='slider-price'>
-                                <p>
-                                    $120
-                                    <span>
-                                        $160
-                                    </span>
-                                </p>
-                            </div>
-                            <div className='content-icon-box'>
-                                <div className='star-icon'>
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                </div>
-                                <div className='start-text'>
-                                    <p>(88)</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                    <div className='slider-main-box'>
-                        <div className='slider-image-box'>
-                            <div className='slider-img'>
-                                <img src={Sliderimage} alt="" />
-                            </div>
-                            <div className='slider-img-icon'>
-                                <div className='slider-sale-tag'>
-                                    <span>-40%</span>
-                                </div>
-                                <div className='slider-icon'>
-                                    <img src={Shortlist} alt="" />
-                                    <img src={Eyeimage} alt="" />
-                                </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
                             </div>
                         </div>
                         <div className='slider-content-box'>
@@ -332,50 +212,10 @@ const Todayslider = () => {
                                     <img src={Eyeimage} alt="" />
                                 </div>
                             </div>
-                        </div>
-                        <div className='slider-content-box'>
-                            <div className='slider-title'>
-                                <h4>
-                                    HAVIT HV-G92 Gamepad
-                                </h4>
-                            </div>
-                            <div className='slider-price'>
-                                <p>
-                                    $120
-                                    <span>
-                                        $160
-                                    </span>
-                                </p>
-                            </div>
-                            <div className='content-icon-box'>
-                                <div className='star-icon'>
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                    <img src={Starimage} alt="" />
-                                </div>
-                                <div className='start-text'>
-                                    <p>(88)</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </SwiperSlide>
-                <SwiperSlide>
-                    <div className='slider-main-box'>
-                        <div className='slider-image-box'>
-                            <div className='slider-img'>
-                                <img src={Sliderimage} alt="" />
-                            </div>
-                            <div className='slider-img-icon'>
-                                <div className='slider-sale-tag'>
-                                    <span>-40%</span>
-                                </div>
-                                <div className='slider-icon'>
-                                    <img src={Shortlist} alt="" />
-                                    <img src={Eyeimage} alt="" />
-                                </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
                             </div>
                         </div>
                         <div className='slider-content-box'>
@@ -421,6 +261,211 @@ const Todayslider = () => {
                                     <img src={Shortlist} alt="" />
                                     <img src={Eyeimage} alt="" />
                                 </div>
+                            </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
+                            </div>
+                        </div>
+                        <div className='slider-content-box'>
+                            <div className='slider-title'>
+                                <h4>
+                                    HAVIT HV-G92 Gamepad
+                                </h4>
+                            </div>
+                            <div className='slider-price'>
+                                <p>
+                                    $120
+                                    <span>
+                                        $160
+                                    </span>
+                                </p>
+                            </div>
+                            <div className='content-icon-box'>
+                                <div className='star-icon'>
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                </div>
+                                <div className='start-text'>
+                                    <p>(88)</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                    <div className='slider-main-box'>
+                        <div className='slider-image-box'>
+                            <div className='slider-img'>
+                                <img src={Sliderimage} alt="" />
+                            </div>
+                            <div className='slider-img-icon'>
+                                <div className='slider-sale-tag'>
+                                    <span>-40%</span>
+                                </div>
+                                <div className='slider-icon'>
+                                    <img src={Shortlist} alt="" />
+                                    <img src={Eyeimage} alt="" />
+                                </div>
+                            </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
+                            </div>
+                        </div>
+                        <div className='slider-content-box'>
+                            <div className='slider-title'>
+                                <h4>
+                                    HAVIT HV-G92 Gamepad
+                                </h4>
+                            </div>
+                            <div className='slider-price'>
+                                <p>
+                                    $120
+                                    <span>
+                                        $160
+                                    </span>
+                                </p>
+                            </div>
+                            <div className='content-icon-box'>
+                                <div className='star-icon'>
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                </div>
+                                <div className='start-text'>
+                                    <p>(88)</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                    <div className='slider-main-box'>
+                        <div className='slider-image-box'>
+                            <div className='slider-img'>
+                                <img src={Sliderimage} alt="" />
+                            </div>
+                            <div className='slider-img-icon'>
+                                <div className='slider-sale-tag'>
+                                    <span>-40%</span>
+                                </div>
+                                <div className='slider-icon'>
+                                    <img src={Shortlist} alt="" />
+                                    <img src={Eyeimage} alt="" />
+                                </div>
+                            </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
+                            </div>
+                        </div>
+                        <div className='slider-content-box'>
+                            <div className='slider-title'>
+                                <h4>
+                                    HAVIT HV-G92 Gamepad
+                                </h4>
+                            </div>
+                            <div className='slider-price'>
+                                <p>
+                                    $120
+                                    <span>
+                                        $160
+                                    </span>
+                                </p>
+                            </div>
+                            <div className='content-icon-box'>
+                                <div className='star-icon'>
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                </div>
+                                <div className='start-text'>
+                                    <p>(88)</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                    <div className='slider-main-box'>
+                        <div className='slider-image-box'>
+                            <div className='slider-img'>
+                                <img src={Sliderimage} alt="" />
+                            </div>
+                            <div className='slider-img-icon'>
+                                <div className='slider-sale-tag'>
+                                    <span>-40%</span>
+                                </div>
+                                <div className='slider-icon'>
+                                    <img src={Shortlist} alt="" />
+                                    <img src={Eyeimage} alt="" />
+                                </div>
+                            </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
+                            </div>
+                        </div>
+                        <div className='slider-content-box'>
+                            <div className='slider-title'>
+                                <h4>
+                                    HAVIT HV-G92 Gamepad
+                                </h4>
+                            </div>
+                            <div className='slider-price'>
+                                <p>
+                                    $120
+                                    <span>
+                                        $160
+                                    </span>
+                                </p>
+                            </div>
+                            <div className='content-icon-box'>
+                                <div className='star-icon'>
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                    <img src={Starimage} alt="" />
+                                </div>
+                                <div className='start-text'>
+                                    <p>(88)</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </SwiperSlide>
+                <SwiperSlide>
+                    <div className='slider-main-box'>
+                        <div className='slider-image-box'>
+                            <div className='slider-img'>
+                                <img src={Sliderimage} alt="" />
+                            </div>
+                            <div className='slider-img-icon'>
+                                <div className='slider-sale-tag'>
+                                    <span>-40%</span>
+                                </div>
+                                <div className='slider-icon'>
+                                    <img src={Shortlist} alt="" />
+                                    <img src={Eyeimage} alt="" />
+                                </div>
+                            </div>
+                            <div className='add-btn'>
+                                <button>
+                                    Add To Cart
+                                </button>
                             </div>
                         </div>
                         <div className='slider-content-box'>
