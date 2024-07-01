@@ -719,11 +719,12 @@ ul.nav-menu li a {
     margin-bottom: 60px;
 }
 
-.women-card-box .arrival-card-box{
+.women-card-box .arrival-card-box {
     height: 284px;
     background-color: #0D0D0D;
 }
-.speaker-card-box .arrival-card-box{
+
+.speaker-card-box .arrival-card-box {
     height: 284px;
 }
 
@@ -731,34 +732,47 @@ ul.nav-menu li a {
     margin-top: 30px;
 }
 
-.arrival-card-main{
+.arrival-card-main {
     margin-top: 30px;
 }
 
 /*  */
 
-.deliver-img{
+.deliver-img {
     display: block;
     text-align: center;
 }
 
-.deliver-text h4{
+.deliver-text h4 {
     text-align: center;
     color: var(--primary-color);
     font-size: 20px;
     margin-top: 10px;
 }
-.deliver-text p{
+
+.deliver-text p {
     text-align: center;
     color: var(--primary-color);
     margin-top: 10px;
 }
 
-.deliver-wrapper{
+.deliver-wrapper {
     padding: 60px 0;
 }
 
 
-.signup-image img{
+.signup-image img {
     width: 100%;
+}
+
+
+
+.send-btn button {
+    padding: 15px 40px;
+    background: var(--secondary-color);
+    color: var(--common-color);
+    font-size: 16px;
+    display: inline-block;
+    text-align: right;
+    margin-top: 30px;
 }
