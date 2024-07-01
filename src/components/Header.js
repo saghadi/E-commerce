@@ -6,6 +6,7 @@ import Downarrow from '../components/images/downarrow.svg'
 import Searchinput from '../components/images/search-icon.svg'
 import Shortlist from '../components/images/shortlist.svg'
 import Trolleybag from '../components/images/trolley-bag.svg'
+import { NavLink } from 'react-router-dom';
 
 const Header = () => {
     return (
@@ -37,24 +38,24 @@ const Header = () => {
                         <Col md={5}>
                             <ul className='nav-menu'>
                                 <li>
-                                    <a href='#'>
+                                    <NavLink to='/'>
                                         Home
-                                    </a>
+                                    </NavLink>
                                 </li>
                                 <li>
-                                    <a href='#'>
+                                    <NavLink to='/Contact'>
                                         Contact
-                                    </a>
+                                    </NavLink>
                                 </li>
                                 <li>
-                                    <a href='#'>
+                                    <NavLink to='/about'>
                                         About
-                                    </a>
+                                    </NavLink>
                                 </li>
                                 <li>
-                                    <a href='#'>
+                                    <NavLink to='/SignUp'>
                                         Sign Up
-                                    </a>
+                                    </NavLink>
                                 </li>
                             </ul>
                         </Col>

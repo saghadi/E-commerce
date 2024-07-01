@@ -1,6 +1,6 @@
 import React from 'react'
 import Carousel from 'react-bootstrap/Carousel';
-import { Container, Row, Col } from 'react-bootstrap';
+import { Row, Col } from 'react-bootstrap';
 import Sliderimage from '../components/images/slider-tag.png'
 import Buttonimage from '../components/images/icons arrow-right.svg'
 import BannerImage from '../components/images/hero_endframe__cvklg0xk3w6e_large 2.png'

@@ -448,7 +448,7 @@ ul.nav-menu li a {
     margin-top: 30px;
     margin-bottom: 30px;
     position: relative;
-    margin-left: 278px;
+    margin-left: 300px;
 }
 
 .content-icon-box {
@@ -473,13 +473,13 @@ ul.nav-menu li a {
 }
 
 .todays-wrapper .swiper-button-next:after {
-    background: url(../src/components/images/slider-left.svg) !important;
+    /* background: url(../src/components/images/slider-left.svg) !important; */
     font-size: 20px;
     color: #000;
 }
 
 .todays-wrapper .swiper-button-prev:after {
-    background: url(../src/components/images/slider-left.svg) !important;
+    /* background: url(../src/components/images/slider-left.svg) !important; */
     font-size: 20px;
     color: #000;
 }
@@ -661,13 +661,13 @@ ul.nav-menu li a {
 }
 
 .explore-wrapper .swiper-button-next:after {
-    background: url(../src/components/images/slider-left.svg) !important;
+    /* background: url(../src/components/images/slider-left.svg) !important; */
     font-size: 20px;
     color: #000;
 }
 
 .explore-wrapper .swiper-button-prev:after {
-    background: url(../src/components/images/slider-left.svg) !important;
+    /* background: url(../src/components/images/slider-left.svg) !important; */
     font-size: 20px;
     color: #000;
 }
@@ -756,4 +756,9 @@ ul.nav-menu li a {
 
 .deliver-wrapper{
     padding: 60px 0;
+}
+
+
+.signup-image img{
+    width: 100%;
 }
